@@ -126,9 +126,3 @@ Both backend and frontend tests are included for comprehensive coverage.
 - Node 22.18 is required if using local Node instead of Sail.
 - Database, PHP runtime, and Node services are containerized.
 - User registration is built-in, so user seeding is unnecessary.
-
----
-
-## Additional Documentation
-
-Additional sections such as API routes, deployment workflows, or architecture diagrams can be added upon request.
