@@ -32,6 +32,11 @@ composer install
 ./vendor/bin/sail npm install
 ```
 
+### 2. Create the Docker Environment
+```bash
+./vendor/bin/sail up
+```
+
 ### 2. Start the Docker Environment
 ```bash
 ./vendor/bin/sail up -d
